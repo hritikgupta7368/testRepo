@@ -5,4 +5,6 @@ readme.md created
 
 now checking local commit functionality
 
-testing
+testing 
+
+now deployed on render checking
